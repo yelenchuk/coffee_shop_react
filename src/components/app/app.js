@@ -9,8 +9,8 @@ import {
 
 import './app.css';
 
-import Home from '../home/home'
-import Coffee from '../coffee/coffee'
+import Home from '../pages/home/home'
+import Coffee from '../pages/coffee/coffee'
 
 class App extends Component {
     render() {
