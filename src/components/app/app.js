@@ -7,7 +7,7 @@ import {
     withRouter
 } from "react-router-dom"
 
-import './app.css';
+import './app.scss';
 
 import Home from '../pages/home/home'
 import Coffee from '../pages/coffee/coffee'
